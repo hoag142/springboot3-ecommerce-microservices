@@ -1,7 +1,7 @@
-package com.hoang.microservices.order.controller;
+package com.hoag.microservices.order.controller;
 
-import com.hoang.microservices.order.dto.OrderRequest;
-import com.hoang.microservices.order.service.OrderService;
+import com.hoag.microservices.order.dto.OrderRequest;
+import com.hoag.microservices.order.service.OrderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

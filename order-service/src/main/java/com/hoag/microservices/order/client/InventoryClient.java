@@ -1,4 +1,4 @@
-package com.hoang.microservices.order.client;
+package com.hoag.microservices.order.client;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;

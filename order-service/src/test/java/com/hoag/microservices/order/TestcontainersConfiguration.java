@@ -1,4 +1,4 @@
-package com.hoang.microservices.order;
+package com.hoag.microservices.order;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;

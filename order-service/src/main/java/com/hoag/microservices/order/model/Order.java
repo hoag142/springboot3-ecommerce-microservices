@@ -1,4 +1,4 @@
-package com.hoang.microservices.order.model;
+package com.hoag.microservices.order.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

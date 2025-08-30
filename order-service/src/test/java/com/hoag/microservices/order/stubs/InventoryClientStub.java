@@ -1,4 +1,4 @@
-package com.hoang.microservices.order.stubs;
+package com.hoag.microservices.order.stubs;
 
 import static com.github.tomakehurst.wiremock.client.WireMock.*;
 

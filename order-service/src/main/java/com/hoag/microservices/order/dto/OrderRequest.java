@@ -1,4 +1,4 @@
-package com.hoang.microservices.order.dto;
+package com.hoag.microservices.order.dto;
 
 import java.math.BigDecimal;
 

@@ -1,9 +1,9 @@
-package com.hoang.microservices.order.service;
+package com.hoag.microservices.order.service;
 
-import com.hoang.microservices.order.client.InventoryClient;
-import com.hoang.microservices.order.dto.OrderRequest;
-import com.hoang.microservices.order.model.Order;
-import com.hoang.microservices.order.repository.OrderRepository;
+import com.hoag.microservices.order.client.InventoryClient;
+import com.hoag.microservices.order.dto.OrderRequest;
+import com.hoag.microservices.order.model.Order;
+import com.hoag.microservices.order.repository.OrderRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
